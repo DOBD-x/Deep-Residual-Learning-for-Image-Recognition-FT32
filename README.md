@@ -1,5 +1,5 @@
 # Deep-Residual-Learning-for-Image-Recognition-FT32
-For gitshanks’ Facial Emotion Recognition (FER) model
+For Facial Emotion Recognition (FER) model
 ==============================================================
 Create a folder ‘fer2013’ in your home directory
 1. Place the following files into the folder; they will be used to run gitshank’s model:
@@ -46,5 +46,3 @@ python confmatrix.py
 
 This script shows which emotions your model confuses most often.
 
-
-For resnet model
