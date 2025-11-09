@@ -64,4 +64,4 @@ python confmatrix.py
 
 9. Run recognize2.py
 
-- This script is an improvement to the algorithm that improves the previous data set. Expected improvement is 80% from 71.55%
+- This script is an improvement to the algorithm that improves the previous data set.
