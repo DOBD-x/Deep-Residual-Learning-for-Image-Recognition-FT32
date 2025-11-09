@@ -18,9 +18,11 @@ python -m venv venv
 .\venv\Scripts\activate
 
 4. Install Required Libraries inside the activated environment:
+pip install pytorch
 pip install tensorflow keras numpy scikit-learn pandas opencv-python matplotlib
 
-5. Run Preprocessing:
+
+6. Run Preprocessing:
 python preprocessing.py
 
 This will parse fer2013.csv into usable features and labels
@@ -47,3 +49,5 @@ python confmatrix.py
 
 This script shows which emotions your model confuses most often.
 
+9. Run recognize2.py 
+This script is an improvement to the algorithm that improves the previous data set. Expected improvement is 80% from 71.55%
