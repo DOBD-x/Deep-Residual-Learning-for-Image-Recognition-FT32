@@ -8,6 +8,7 @@ Create a folder ‘fer2013’ in your home directory
 - fertrain.py
 - fertest.py
 - confmatrix.py
+- recognize2.py
 
 2. In your IDE’s terminal run the following commands after navigating to the fer2013 folder:
 cd fer2013
